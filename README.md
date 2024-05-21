@@ -13,6 +13,7 @@ This project was developed with the following technologies:
 - [Reactjs](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org)
 - [Vite](https://vitejs.dev/)
+- [CSS Module](https://github.com/css-modules/css-modules)
 
 ## Libraries
 
